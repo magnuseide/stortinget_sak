@@ -1,0 +1,216 @@
+{
+    "utgifter": {
+        "sum": "1852351253000",
+        "steder": [
+            {
+                "tittel": "Det kongelige hus",
+                "sum": 433897000
+            },
+            {
+                "tittel": "Regjering",
+                "sum": 431600000
+            },
+            {
+                "tittel": "Stortinget og underliggende institusjoner",
+                "sum": 2332100000
+            },
+            {
+                "tittel": "Høyesterett",
+                "sum": 112195000 
+            },
+            {
+                "tittel": "Utenriksdepartementet",
+                "sum": 41940892000
+            },
+            {
+                "tittel": "Kunnskapsdepartementet",
+                "sum": 77872709000
+            },
+            {
+                "tittel": "Kulturdepartementet",
+                "sum": 14828416000
+            },
+            {
+                "tittel": "Justis- og beredskapsdepartementet",
+                "sum": 41470386000
+            },
+            {
+                "tittel": "Kommunal- og moderniseringsdepartementet",
+                "sum": 196810702000
+            },
+            {
+                "tittel": "Arbeids- og sosialdepartementet",
+                "sum": 35423143000
+            },
+            {
+                "tittel": "Helse, og omsorgsdepartementet",
+                "sum": 178755063000
+            },
+            {
+                "tittel": "Barne- og likestilingsdepartementet",
+                "sum": 27642551000
+            },
+            {
+                "tittel": "Nærings- og fiskeridepartementet",
+                "sum": 12593946000
+            }, 
+            {
+                "tittel": "Landbruks- og matdepartementet",
+                "sum": 19487828000
+            }, 
+            {
+                "tittel": "Samferdselsdepartementet",
+                "sum": 73074261000
+            }, 
+            {
+                "tittel": "Klima, og miljødepartementet",
+                "sum": 14130321000
+            },
+            {
+                "tittel": "Finansdepartementet",
+                "sum": 131292700000
+            },
+            {
+                "tittel": "Forsvarsdepartementet",
+                "sum": 5895352600
+            },
+            {
+                "tittel": "Olje- og energidepartementet",
+                "sum": 3723146000
+            },
+            {
+                "tittel": "Ymse",
+                "sum": 4350000000
+            }, 
+            {
+                "tittel": "Statsbankene",
+                "sum": 121409150000
+            },
+            {
+                "tittel": "Statlig petroleumsvirksomhet",
+                "sum": 27000000000
+            },
+            {
+                "tittel": "Statens forretningsdrift",
+                "sum": 4201876000
+            }, 
+            {
+                "tittel": "Folketrygden",
+                "sum": 47825884500
+            },
+            {
+                "tittel": "Statens pensjonsfond utland",
+                "sum": 285822000000
+            },
+            {
+                "tittel": "Lønn til Magnus",
+                "sum": 480891999600
+            }
+        ]
+    },
+    "inntekter": {
+        "sum": "1852351253000",
+        "steder": [
+            {
+                "tittel": "Regjering",
+                "sum": 19100000
+            },
+            {
+                "tittel": "Stortinget og underliggende institusjoner",
+                "sum": 12700000
+            },
+            {
+                "tittel": "Utenriksdepartementet",
+                "sum": 258258000
+            },
+            {
+                "tittel": "Kunnskapsdepartementet",
+                "sum": 146010000
+            },
+            {
+                "tittel": "Kulturdepartementet",
+                "sum": 180565000
+            },
+            {
+                "tittel": "Justis- og beredskapsdepartementet",
+                "sum": 3665368000
+            },
+            {
+                "tittel": "Kommunal- og moderniseringsdepartementet",
+                "sum": 1154817000
+            },
+            {
+                "tittel": "Arbeids- og sosialdepartementet",
+                "sum": 11337926000
+            },
+            {
+                "tittel": "Helse, og omsorgsdepartementet",
+                "sum": 2345615000
+            },
+            {
+                "tittel": "Barne- og likestilingsdepartementet",
+                "sum": 1570947000
+            },
+            {
+                "tittel": "Nærings- og fiskeridepartementet",
+                "sum": 1741626000
+            }, 
+            {
+                "tittel": "Landbruks- og matdepartementet",
+                "sum": 271483000
+            }, 
+            {
+                "tittel": "Samferdselsdepartementet",
+                "sum": 3699400000
+            }, 
+            {
+                "tittel": "Klima, og miljødepartementet",
+                "sum": 6976027000
+            },
+            {
+                "tittel": "Finansdepartementet",
+                "sum": 2642200000
+            },
+            {
+                "tittel": "Forsvarsdepartementet",
+                "sum": 6028631000
+            },
+            {
+                "tittel": "Olje- og energidepartementet",
+                "sum": 341583000
+            },
+            {
+                "tittel": "Ymse",
+                "sum": 112840846000
+            },
+            {
+                "tittel": "Statlig petroleumsvirksomhet",
+                "sum": 132900000000
+            },
+            {
+                "tittel": "Avskrivninger, avsetninger til investeringsformål og inntekter av statens forretningsdrift i samband med nybygg, anlegg mv.",
+                "sum": 288792700
+            }, 
+            {
+                "tittel": "Skatter og avgifter",
+                "sum": 852087353000
+            },
+            {
+                "tittel": "Renter og utbytte mv.",
+                "sum": 54431855000
+            },
+            {
+                "tittel": "Folketrygden",
+                "sum": 345173450000
+            },
+            {
+                "tittel": "Statens pensjonsfond utland",
+                "sum": 232494395000
+            },
+            {
+                "tittel": "Statslånmidler",
+                "sum": 77143171000 
+            }
+        ]
+    }
+}
